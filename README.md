@@ -1,5 +1,5 @@
 # OpenCV_Proj_AKI
-C0DEA and Emre worked as a team on this Project for the Module: Angewandte KI by Mr. Buono
+Me and Emre worked as a team on this Project for the Module: Angewandte KI by Mr. Buono
 
 What you need to run this:
 - Python (With pip)
