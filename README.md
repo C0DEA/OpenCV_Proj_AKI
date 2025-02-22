@@ -7,7 +7,7 @@ What you need to run this:
 - OpenCV. If youre on Windows just do "pip install opencv-python"
 - The XML file and The python code you want to run (1 .py file is enough to run)
 
-The two XML files are from the "OpenCV" Repo
+The two XML files are from the "OpenCV" Repo:
 https://github.com/opencv
 
 I tried to enable CUDA, but it was way too complicated. I asked my professor, Mr. Buono, checked YouTube, and also asked ChatGPT. Apparently, the only solution is to recompile the OpenCV library using CMake and import it into the project. I tried to do it, but at some point, it took too much time since I also had exams to study for, so I had to settle for the CPU version.
