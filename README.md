@@ -8,6 +8,7 @@ What you need to run this:
 - The XML file and The python code you want to run (1 .py file is enough to run)
 
 The two XML files are from the "OpenCV" Repo
+https://github.com/opencv
 
 I tried to enable CUDA, but it was way too complicated. I asked my professor, Mr. Buono, checked YouTube, and also asked ChatGPT. Apparently, the only solution is to recompile the OpenCV library using CMake and import it into the project. I tried to do it, but at some point, it took too much time since I also had exams to study for, so I had to settle for the CPU version.
 I’m planning to run this on an NVIDIA Jetson Orin Nano once I get my hands on one. If I had to develop facial detection software again, I would go the YOLO route. OpenCV also seems a little outdated (check the last commits on their repo).
