@@ -17,6 +17,6 @@ Applied AI is cooler than I thought, and I’m looking forward to creating more 
 
 ### OpenCV_FACECOUNTER_FPS.py is the most up to date version, the rest are older versions or testing "environments". ###
 ### WHEN RUNNING THE PROGRAM PRESS "Q" TO QUIT IT
-Majority of the Code was written ChatGPT. It made the development more efficient and simpler. 
+Majority of the Code was written by ChatGPT. It made the development more efficient and simpler. 
 
 "Embrace the GPT or the GPT will embrace you"
