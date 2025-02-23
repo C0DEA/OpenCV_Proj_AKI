@@ -16,7 +16,7 @@ I’m planning to run this on an NVIDIA Jetson Orin Nano once I get my hands on 
 Applied AI is cooler than I thought, and I’m looking forward to creating more cool stuff. 
 
 ### OpenCV_FACECOUNTER_FPS.py is the most up to date version, the rest are older versions or testing "environments". ###
-### WHEN RUNNING THE PROGRAM PRESS "Q" TO QUIT IT###
+### WHEN RUNNING THE PROGRAM PRESS "Q" TO QUIT IT
 Majority of the Code was written ChatGPT. It made the development more efficient and simpler. 
 
 "Embrace the GPT or the GPT will embrace you"
